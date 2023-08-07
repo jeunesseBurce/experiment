@@ -1,0 +1,25 @@
+{
+  "name": "experiment-threejs",
+  "version": "1.0.0",
+  "description": "An experimental package for learning and working with threejs",
+  "main": "main.js",
+  "dependencies": {
+    "three": "^0.155.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeunesseBurce/experiment.git"
+  },
+  "author": "Jeunesse Doree Burce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeunesseBurce/experiment/issues"
+  },
+  "homepage": "https://github.com/jeunesseBurce/experiment#readme"
+}
